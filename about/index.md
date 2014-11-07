@@ -29,7 +29,7 @@ comments: yes
 ##联系方式
 + 个人邮箱:canonxu@yeah.net      
 + 新浪微博: [徐佳能Canon](http://weibo.com/u/1887763444)      
-+ Github : [cannoxu](https://github.com/canonxu)  
++ Github : [canonxu](https://github.com/canonxu)  
 + 通信地址：上海市闵行区东川路800号综合实验大楼2号楼602房间 (邮编:200240) 
 <br/>
 <br/>
