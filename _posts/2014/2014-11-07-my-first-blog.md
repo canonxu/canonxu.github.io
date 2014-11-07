@@ -17,7 +17,7 @@ I spend almost 3 days to establish this blog because i know little about coding 
 
 Considering the future,in a nusshell: word id cheap,show me your code!
 
-<img src="http://canonxu.github.io/media/pic/14/coder.jpg" alt="Failure" align="middle" width="500" height="250">
+<img src="/media/pic/14/coder.jpg" alt="Failure" align="middle" width="500" height="250">
 
 *************************************
 

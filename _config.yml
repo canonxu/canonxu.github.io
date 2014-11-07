@@ -1,6 +1,10 @@
+#Site Setting 
+author: canonxu
+url: http://canonxu.com
+website: canonxu@yeah.net
+
+#Build  Setting 
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://canonxu.com
-author: CanonXu
-pygments: true
+highlighter: pygments
 paginate: 24
