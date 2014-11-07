@@ -8,9 +8,9 @@
 + 到目前为止，主要参考了[sevenChe.com-七拉八扯](http://blog.sevenche.com/)的jekyll博客模板
 
 ###未来的工作
-+ 参照[Jerrry的乐园](http://http://jerryzou.com/)的博客，添加·我在别处·（Github、Linkedin、Weibo）、·友情链接·、`文章搜索`等功能
-+ 在About me页面添加·我的简历·，支持我的简历（Latex制作）下载
-************************
++ 参照[Jerrry的乐园](http://http://jerryzou.com/)的博客，添加"我在别处"（Github、Linkedin、Weibo）、"友情链接"、"文章搜索"等功能
++ 在About me页面添加"我的简历"，支持我的简历（Latex制作）下载
+<bt/>
 最近实在很忙，作业很多压力很大，有好的博客内容及时分享，博客框架忙完这一阵再说
 
 
