@@ -23,15 +23,15 @@ comments: yes
 <br/>
 
 ##项目经历   
-+ 徐佳能的个人博客：[canonxu.com]（http://canonxu.com）
++ 徐佳能的个人博客：[canonxu.com](http://canonxu.com)
 <br/>
 
 ##联系方式
 + 个人邮箱:canonxu@yeah.net 
-+ <img src="/media/pic/github_icon.png">Github : [canonxu](https://github.com/canonxu) 
-+ <img src="/media/pic/sf_icon.png">Segmentfault: [canonxu](http://segmentfault.com/u/canonxu)
-+ <img src="/media/pic/linkedin_icon.png">Linkedin: [徐佳能](cn.linkedin.com/pub/佳能-徐/a1/b20/627/)
-+ <img src="/media/pic/weibo_icon.png">新浪微博: [徐佳能Canon](http://weibo.com/u/1887763444)          
++ <img src="/media/pic/github_icon.png"> Github : [canonxu](https://github.com/canonxu) 
++ <img src="/media/pic/sf_icon.png"> Segmentfault: [canonxu](http://segmentfault.com/u/canonxu)
++ <img src="/media/pic/linkedin_icon.png"> Linkedin: [徐佳能](cn.linkedin.com/pub/佳能-徐/a1/b20/627/)
++ <img src="/media/pic/weibo_icon.png"> 新浪微博: [徐佳能Canon](http://weibo.com/u/1887763444)          
 + 通信地址：上海市闵行区东川路800号综合实验大楼2号楼602房间 (邮编:200240) 
 <br/>
 <br/>
