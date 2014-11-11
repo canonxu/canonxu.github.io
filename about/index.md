@@ -37,7 +37,7 @@ comments: yes
 <br/>
 <br/>
 <br/>
-###***Interested? Here is my <a href="/media/resume/en_resume.pdf">resume</a>,and do not be hesitated to contact me!***
+###***Interested? Here is my <a href="/media/resume/en_resume.pdf" target="_blank">resume</a>,and do not be hesitated to contact me!***
 
 <br/>
 <br/>
