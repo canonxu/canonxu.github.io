@@ -35,7 +35,10 @@ comments: yes
 + <img src="/media/pic/weibo_icon.png"> 新浪微博: [徐佳能Canon](http://weibo.com/u/1887763444)          
 + 通信地址：上海市闵行区东川路800号综合实验大楼2号楼602房间 (邮编:200240) 
 <br/>
-***Interested? Here is my <a href="/media/resume/en_resume.pdf">resume</a>,and do not be hesitated to contact me!***
+<br/>
+<br/>
+###***Interested? Here is my <a href="/media/resume/en_resume.pdf">resume</a>,and do not be hesitated to contact me!***
+
 <br/>
 <br/>
 <br/>
