@@ -37,7 +37,7 @@ comments: yes
 <br/>
 <br/>
 <br/>
-###***Interested? Here is my <b>resume</b>(<a href="/media/resume/en_resume.pdf" target="_blank">english</a>/<a href="/media/resume/ch_resume.pdf" target="_blank">chinese</a>),and do not be hesitated to contact me!***
+###***Interested? Here is my <big><strong>resume</strong></big>(<a href="/media/resume/en_resume.pdf" target="_blank">english</a>/<a href="/media/resume/ch_resume.pdf" target="_blank">chinese</a>), and do not be hesitated to contact me!***
 
 <br/>
 <br/>
