@@ -15,9 +15,9 @@ tags:
 ，今年的Pycon对学生免费，那我更不能错过了。
 今年的Pycon在张江的浦软大厦举行，从早上九点到下午六点结束，中间提供午餐和茶歇。详细安排见下图：
 <br/>
-<img src="http://canonxu-com.qiniudn.com/pycon_scheme1.jpg"/ heigth="200" width="500">
+<img src="http://canonxu-com.qiniudn.com/pycon_scheme1.jpg"/ heigth="280" width="700">
 <br/>
-<img src="http://canonxu-com.qiniudn.com/pycon_scheme2.jpg"/ heigth="400" width="500">
+<img src="http://canonxu-com.qiniudn.com/pycon_scheme2.jpg"/ heigth="550" width="700">
 <br/>
 
 ###1.Python中的进程,线程,协程,同步,异步,回调
