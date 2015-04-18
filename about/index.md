@@ -5,7 +5,7 @@ comments: yes
 ---
 ##关于我
 <img src="/media/pic/canon.jpg" align=right>
-我叫徐佳能，是上海交通大学电子工程系的硕士研究生，隶属于TFT-LCD关键材料及技术国家工程实验室，研究方向为薄膜晶体管（TFT）及驱动电路。
+我叫徐佳能，是上海交通大学电子工程系的硕士研究生，隶属于TFT-LCD关键材料及技术国家工程实验室，研究方向为薄膜晶体管（TFT）模型及驱动电路。
 
 我是一个编程新手，但是这不妨碍我热爱编程。我希望能够挤出时间，练好编程内功，coding出好的作品。我热切期待遇见志同道合的朋友一起学习！
 
@@ -28,7 +28,7 @@ comments: yes
 <br/>
 
 ##联系方式
-+ 个人邮箱:canonxu@yeah.net 
++ 个人邮箱:canonxu `At` yeah.net 
 + <img src="/media/pic/github_icon.png" align="bottom"> Github : [canonxu](https://github.com/canonxu) 
 + <img src="/media/pic/sf_icon.png" align="bottom"> Segmentfault: [canonxu](http://segmentfault.com/u/canonxu)
 + <img src="/media/pic/linkedin_icon.png" align="bottom"> Linkedin: [徐佳能](http://www.linkedin.com/profile/view?id=364083583)
