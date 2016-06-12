@@ -4,7 +4,6 @@ url: http://canonxu.com
 website: canonxu@yeah.net
 
 #Build  Setting 
-markdown: rdiscount
 permalink: /:year/:month/:title/
 highlighter: pygments
 paginate: 24
