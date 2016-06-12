@@ -3,4 +3,4 @@ _site
 .DS_Store
 *.md~
 /media/pic/14/*
-
+/posts-draft
