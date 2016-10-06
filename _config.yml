@@ -5,5 +5,5 @@ website: canonxu@yeah.net
 
 #Build  Setting 
 permalink: /:year/:month/:title/
-highlighter: rouge
+#highlighter: rouge
 paginate: 24
