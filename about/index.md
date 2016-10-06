@@ -17,20 +17,24 @@ comments: yes
 
 
 ##教育经历
+
 + 2014-2017 上海交通大学 电子与通信工程 硕士
 + 2010-2014 西安交通大学 电子科学与技术 本科
 
 ##实习经历
+
 + 2016年9月-至今 百度>商务搜索部(凤巢)
 + 2016年6月-2016年9月 阿里巴巴>菜鸟网络>跨境技术部
 + 2015年11月-2016年6月 爱奇艺>云平台>服务云>分布式系统组
 
 ##我的兴趣
+
 + Java EE开发，Spring生态, Mytatis, Tomcat, Web服务化(SOA,Microservice)等
 + 分布式技术，Redis，Dubbo，JsonRPC，Kafka，Zabbix等
 + 大数据工程化，Hadoop, Meachine learning
 
 ##联系方式
+
 + 个人邮箱:canonxu `At` yeah.net 
 + <img src="/media/pic/github_icon.png" align="bottom"> Github : [canonxu](https://github.com/canonxu) 
 + <img src="/media/pic/sf_icon.png" align="bottom"> Segmentfault: [canonxu](http://segmentfault.com/u/canonxu)
