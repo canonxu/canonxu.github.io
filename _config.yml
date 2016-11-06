@@ -1,5 +1,5 @@
 markdown: kramdown 
-pygments: true
+#pygments: true
 #Site Setting 
 author: canonxu
 url: http://canonxu.com
@@ -7,5 +7,5 @@ website: canonxu@yeah.net
 
 #Build  Setting 
 permalink: /:year/:month/:title/
-#highlighter: rouge
+highlighter: rouge
 paginate: 24
