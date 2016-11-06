@@ -4,7 +4,7 @@ title: My first blog
 categories:
 - Daily
 tags:
-- blog coding
+- blog, coding
 
 ---
 

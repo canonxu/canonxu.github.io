@@ -4,7 +4,7 @@ title: Pycon2014 @Shanghai
 categories:
 - Lectures
 tags:
-- Python mechine_learning
+- Python, mechine learning
 
 ---
 **时间**：2014年11月6日
