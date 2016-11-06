@@ -1,5 +1,4 @@
-markdown: kramdown 
-#pygments: true
+markdown: rdiscount 
 #Site Setting 
 author: canonxu
 url: http://canonxu.com
