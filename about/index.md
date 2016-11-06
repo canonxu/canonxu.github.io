@@ -1,11 +1,9 @@
 ---
-title: About me
+title: 关于我
 layout: page
 comments: yes
 
 ---
-
-##关于我
 
 <img src="/media/pic/canon.jpg" align=right>
 
