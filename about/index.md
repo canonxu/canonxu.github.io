@@ -37,8 +37,8 @@ comments: yes
 
 + 个人邮箱:canonxu `At` yeah.net 
 + <img src="/media/pic/github_icon.png" align="bottom"> Github : [canonxu](https://github.com/canonxu) 
++ <img src="/media/pic/linkedin_icon.png" align="bottom"> Linkedin: [徐佳能](http://www.linkedin.com/in/canonxu)
 + <img src="/media/pic/wechat_icon.png" align="bottom"> Wechat: [canonxjn](/media/pic/wechat_qr.png)
-+ <img src="/media/pic/linkedin_icon.png" align="bottom"> Linkedin: [徐佳能](http://www.linkedin.com/profile/view?id=364083583)
 + <img src="/media/pic/weibo_icon.png" align="bottom"> 新浪微博: [徐佳能Canon](http://weibo.com/u/1887763444)          
 + 通信地址：上海市闵行区东川路800号综合实验大楼2号楼604房间 (邮编:200240)
 
